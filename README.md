@@ -1,2 +1,2 @@
 # Basic-Calculator
-Basic Operations 
+Basic Operations ➕ ➖ ➗ ✖
